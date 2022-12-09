@@ -1,0 +1,31 @@
+h1,h6,.navbar-brand{
+    color: white !important;
+}
+
+#locMsg{
+    height: 20px;
+    margin-bottom: -10%;
+}
+
+#logo{
+    height: 60px;
+    width: 60px;
+}
+
+
+.navbar{
+    border-bottom: 3px black solid !important;
+}
+
+#aInst{
+    text-decoration: none;
+}
+
+#aInst:hover{
+    color: white !important;
+}
+
+#navBtn{
+    height: 60px !important;
+    width: 110px !important;
+}
